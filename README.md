@@ -1,4 +1,4 @@
-# My Custom Nanako
+# Set Player Name
 F4SE Plugin for Fallout 4
 
 ## Requirements
@@ -15,8 +15,8 @@ F4SE Plugin for Fallout 4
 ```
 git clone https://github.com/powerof3/CommonLibF4
 cd CommonLibF4
-git clone https://github.com/WirelessLan/MyCustomNanako
-cd MyCustomNanako
+git clone https://github.com/WirelessLan/SetPlayerName
+cd SetPlayerName
 cmake --preset vs2022-windows-vcpkg
 cmake --build build --config Release
 ```
